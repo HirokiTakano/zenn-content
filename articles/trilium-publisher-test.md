@@ -3,7 +3,7 @@ title: "publisherテスト記事"
 emoji: "🧪"
 type: tech
 topics: ["trilium", "zenn"]
-published: false
+published: true
 ---
 
 <!-- source: Trilium note jH9SPnf7twMK / slug: trilium-publisher-test -->
